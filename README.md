@@ -190,7 +190,7 @@ Este módulo administra todos los artículos y productos disponibles para renta.
 # 📂 Estructura del proyecto
 
 ```bash
-EventRentals/
+PlataformaWebAdministracionEventos/
 │
 ├── admin/                    # Panel administrativo
 ├── customer/                 # Módulo cliente
@@ -225,7 +225,7 @@ EventRentals/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/EventRentals.git
+git clone https://github.com/isairey/PlataformaWebAdministracionEventos.git
 ```
 
 ---
@@ -252,7 +252,7 @@ Events/
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/Events/
+xampp/htdocs/PlataformaWebAdministracionEventos/
 ```
 
 ---
@@ -301,7 +301,7 @@ define('DB_NAME','events');
 Abrir:
 
 ```bash
-http://localhost/Events/
+http://localhost/PlataformaWebAdministracionEventos/
 ```
 
 ---
@@ -346,33 +346,7 @@ Contraseña: admin
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🎉 Página principal
-![Home](https://dummyimage.com/1200x600/880E4F/ffffff&text=EventRentals+Home)
-
-### 🛒 Sistema de carrito
-![Cart](https://dummyimage.com/1200x600/AD1457/ffffff&text=Cart+System)
-
-### 📅 Reservaciones online
-![Booking](https://dummyimage.com/1200x600/C2185B/ffffff&text=Online+Booking+System)
-
-### 📦 Gestión de productos
-![Inventory](https://dummyimage.com/1200x600/D81B60/ffffff&text=Inventory+Management)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://dummyimage.com/1200x600/880E4F/ffffff&text=Admin+Dashboard)
-
-### 👥 Gestión de usuarios
-![Users](https://dummyimage.com/1200x600/AD1457/ffffff&text=User+Management)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
